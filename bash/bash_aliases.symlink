@@ -125,7 +125,7 @@ alias gr="git reset"
 
 
 # Tools
-alias prj="cd /Users/mathieugauthier/Documents/Projets"
+alias prj="cd /Users/sonia.bernier/Documents/Projects"
 alias sshconfig="vi ~/.ssh/config"
 
 alias drush8="composer global remove drush/drush && composer global require drush/drush:8.* && drush version"
